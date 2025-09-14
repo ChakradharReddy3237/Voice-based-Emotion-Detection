@@ -1,0 +1,11 @@
+# --- Virtual environment ---
+mlops/
+
+# --- Python cache files ---
+__pycache__/
+*.py[cod]
+*.so
+*.pydtrash:///Voice-based-Emotion-Detection.2/Mlops_Project_proposal.pdf
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
